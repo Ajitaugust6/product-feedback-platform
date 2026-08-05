@@ -126,5 +126,3 @@ State updates for voting are handled to ensure a seamless UI experience while ma
 4. The global state is updated with the server's exact mathematical reality, instantly reflecting the highlighted state and new count on the UI without requiring a full page refresh.
 
 ```
-
-```
